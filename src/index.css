@@ -1,0 +1,44 @@
+body {
+  background-color: #12181f !important;
+}
+
+.App {
+  background-color: #161d26 !important;
+}
+
+.down-trader-card {
+  background-image: linear-gradient(180deg, hsl(354deg 70% 54% / 30%), transparent);
+  background-color: transparent !important;
+}
+
+.up-trader-card {
+  background-image: linear-gradient(180deg, hsl(152deg 69% 31% / 30%), transparent);
+  background-color: transparent !important;
+}
+
+.result-board.down {
+  background-image: linear-gradient(180deg,transparent, hsl(354deg 70% 54% / 30%), transparent);
+  background-color: transparent !important;
+  animation-delay: 10s;
+}
+
+.MulPopper-root.MuiAutocomplete-poper
+
+.result-board.up {
+  background-image: linear-gradient(180deg,transparent, hsl(152deg 69% 31% / 30%), transparent);
+  background-color: transparent !important;
+  animation-delay: 10s;
+}
+
+.trader-board {
+  animation-delay: 2s;
+  /* animation: fullheight 5s infinite; */
+  animation-delay: 10s;
+}
+
+.result-board {
+  animation-delay: 2s;
+  /* animation: fullheight  5s infinite ; */
+  animation-delay: 10s;
+}
+
